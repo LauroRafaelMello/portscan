@@ -3,7 +3,7 @@
 Tenha o python instalado em seu computador<br/>
 https://www.python.org/downloads/<br/>
 Baixe o codigo com:<br/>
-git clone https://github.com/LauroRafaelMello/portscan<br/>
+<code>git clone https://github.com/LauroRafaelMello/portscan</code><br/>
 execute com:<br/>
 python portscan.py [ip alvo]<br/>
 
