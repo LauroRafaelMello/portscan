@@ -1,6 +1,6 @@
 # Começando
 ## Get Started
-Tenha o python instalado em seu computador
+Tenha o python instalado em seu computador<br/>
 https://www.python.org/downloads/
 Baixe o codigo com:
 git clone https://github.com/LauroRafaelMello/portscan
